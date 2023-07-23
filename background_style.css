@@ -1,0 +1,29 @@
+html{
+    /*
+    --How to set background as a solid color--
+    background-color: #FFFFFF;
+    */
+    
+    /*
+    --How to set a gradiant across the entire site--
+    background: linear-gradient(grey, black);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    */
+    color: white;
+    background-image: url("space-background-website.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed ;
+
+}
+h1{
+    background: linear-gradient(red,yellow,green,blue,indigo,purple);
+}
+#mytext{
+    background: linear-gradient(to right, grey, black);
+
+}

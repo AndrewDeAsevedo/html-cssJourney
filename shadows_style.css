@@ -1,0 +1,21 @@
+h1{
+    border: 1px solid;
+    width: 200px;
+    padding: 25px;
+
+    text-shadow: 0px;
+    /* 
+        Horizontal (px)
+        vertical (px)
+        blur (px)
+        color (name,rgb,hex)
+    */
+
+    box-shadow: 0px;
+    /* 
+        Horizontal (px)
+        vertical (px)
+        blur (px)
+        color (name,rgb,hex)
+    */
+}
